@@ -8,11 +8,10 @@
 
 1. Medium : https://medium.com/@gargaakash506
 2. Linkedin : https://www.linkedin.com/in/gargaakash506/
-3. Twitter - 
-4. Instagram - 
-5. Facebook - 
-6. Hackerrank - 
-7. Kaggle - 
+3. Twitter - https://twitter.com/gargaakash506
+4. Instagram - https://www.instagram.com/gargaakash506/
+5. Hackerrank - https://www.hackerrank.com/gargaakash506
+6. Kaggle - https://www.kaggle.com/gargaakash506
 
 <!---
 gargaakash506/gargaakash506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
